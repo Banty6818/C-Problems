@@ -1,3 +1,4 @@
+// print all prime numbers till given number
 #include<iostream>
 using namespace std;
 
